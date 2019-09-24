@@ -1,4 +1,9 @@
 <?php
+# @Date:   2019-09-24T13:09:27+01:00
+# @Last modified time: 2019-09-24T14:23:35+01:00
+
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -19,4 +24,7 @@ Route::get('/HelloWorld', function () {
 });
 Route::get('/hannah', function () {
     return view('hannah') ;
+});
+Route::get('/about', function () {
+    return '<h1>about page</h1>';
 });

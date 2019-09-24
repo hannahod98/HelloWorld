@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+# @Date:   2019-09-24T14:04:23+01:00
+# @Last modified time: 2019-09-24T14:29:43+01:00
+
+
+
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
@@ -81,7 +86,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    web app frameworks
                 </div>
 
                 <div class="links">

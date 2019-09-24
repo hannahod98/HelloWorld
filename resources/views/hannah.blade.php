@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 # @Date:   2019-09-24T14:04:23+01:00
-# @Last modified time: 2019-09-24T14:29:43+01:00
+# @Last modified time: 2019-09-24T14:43:20+01:00
 
 
 
@@ -52,7 +52,9 @@
             .title {
                 font-size: 84px;
             }
-
+            .name {
+                font-size: 60px;
+            }
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -87,6 +89,14 @@
             <div class="content">
                 <div class="title m-b-md">
                     web app frameworks
+                </div>
+                <div class="name m-b-md">
+                    my name is
+
+                </div>
+                <div class="name m-b-md">
+                    hannah
+
                 </div>
 
                 <div class="links">
